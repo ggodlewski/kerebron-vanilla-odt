@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@kerebron/editor": "0.4.19",
+    "@kerebron/editor-kits": "0.4.19",
+    "@kerebron/extension-menu": "0.4.19",
+    "vite": "7.1.4",
+    "vite-plugin-wasm": "3.5.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "devd": "vite --debug",
+    "build": "vite build"
+  }
+}
